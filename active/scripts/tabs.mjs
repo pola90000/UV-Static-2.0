@@ -248,7 +248,7 @@ async function addTab(link) {
   focusTab(tab);
 }
 
-addTab("uvsearch.rhw.one");
+addTab("wist.wisp.uno");
 
 const urlParams = new URLSearchParams(window.location.search);
 
